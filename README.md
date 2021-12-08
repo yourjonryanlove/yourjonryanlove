@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yourjonryanlove
 - 👀 I’m interested in Android Native Software Developing
-- 🌱 I’m currently learning exotics scripts
+- 🌱 I’m currently learning exotic scripts
 - 💞️ I’m looking to collaborate on potential job vacancy to be filled.
 - 📫 How to reach me at jon.l@per-international.com
 
